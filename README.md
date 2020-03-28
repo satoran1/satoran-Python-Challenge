@@ -1,4 +1,5 @@
 PYTHON CHALLENGE-  PY BANK and PY POLL - HOMEWORK #3
+
 The objective of this two-part project was to utilize Python scripting in real-world situations and scenarios.
 
 PY BANK
@@ -13,7 +14,6 @@ Calculate each of the following:
 •	The average change in revenue between months over the entire period
 •	The greatest increase in revenue over the entire period
 •	The greatest decrease in revenue over the entire period The dataset is composed of two columns: Date and Profit/Losses. 
-SOLUTION:
 
 PY POLL
 In this challenge, I was asked to create a python script to help modernize vote-counting process in a rural area.
