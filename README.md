@@ -19,7 +19,7 @@ PY POLL
 In this challenge, I was asked to create a python script to help modernize vote-counting process in a rural area.
 The poll dataset is election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate. 
 Challenge
-Your task is to create a Python script that analyzes the votes and calculates each of the following:
+Create a Python script to analyzes votes and calculates each of the following:
 •	The total number of votes cast
 •	A complete list of candidates who received votes
 •	The percentage of votes each candidate won
